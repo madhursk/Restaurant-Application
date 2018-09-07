@@ -1,5 +1,5 @@
 # Restaurant_Application
-Restaurant System using Java Swings. The project was implemented in First Year of Engineering by: </br>
+This project was part of curriculum and was developed using Java Swing. The following members were involved in the project. </br>
 1)Madhur Kabra(Self)</br>
 2)Rahil Sheth</br>
 3)Mukesh Jha</br>
